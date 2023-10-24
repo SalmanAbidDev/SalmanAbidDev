@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SalmanAbidDev
+- 👋 Hi, I’m Salman Abid.
 - 👀 I’m interested in CrossPlatform Development and in DevOps.
 - 🌱 I’m currently learning DevOps, Flutter and Digital Image Processing.
 - 💞️ I’m looking to collaborate with someone so that I can enhacne my knowledge about my carrer as well as my scope.
